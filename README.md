@@ -12,7 +12,9 @@ ensuring a cost-effective and dependable solution for your needs!
 
 According to some benchmark tests, ConvoAI is one of the fastest APIs on the market.
 
-![image](https://github.com/Convo-AI/ConvoAI-GPT-4/assets/87082036/04e60fef-b208-486a-a8d6-6d20745b8a17)
+![image](https://github.com/Convo-AI/ConvoAI-GPT-4/assets/87082036/a9a7626d-eb1f-4a69-87a1-32f8c9a67842)
+![image](https://github.com/Convo-AI/ConvoAI-GPT-4/assets/87082036/b5bda593-4e9d-4fb9-85d2-2d0be202c787)
+
 
 
 ### Getting Started
